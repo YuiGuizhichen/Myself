@@ -1,0 +1,26 @@
+.banner-area {
+    background: #f9f9ff;
+}
+
+.banner-area .fullscreen {
+    height: 750px;
+}
+
+.banner-left h6 {
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.banner-left h1 {
+    margin: 20px 0;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+/*.banner-left {*/
+/*    box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.3);*/
+/*}*/
+
+.banner-right {
+    text-align: center;
+}
