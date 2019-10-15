@@ -1,3 +1,5 @@
+/* 头部样式 */
+
 .main-menu {
     padding-bottom: 20px;
     padding-top: 20px;
@@ -50,7 +52,7 @@
     min-width: 180px;
 }
 
-/* Nav Meu Styling */
+/* 导航栏样式 */
 .nav-menu a {
     padding: 0 8px 0px 8px;
     text-decoration: none;
@@ -97,4 +99,15 @@
 .nav-menu ul ul {
     margin-right: 10px;
     margin-top: 0;
+}
+
+/* 底部样式 */
+
+.footer-area {
+    background-color: #121a26;
+}
+
+.single-footer-widget h4 {
+    color: #fff;
+    font-weight: 500;
 }
